@@ -1,3 +1,7 @@
+/*
+Getting presentation error for this code, meaning output is correct but there is some issue with its formatting. 
+probably something to do with the spaces that it demands after each testcase
+*/
 import java.util.*;
 public class Main {
     public static void main(String args[]){
